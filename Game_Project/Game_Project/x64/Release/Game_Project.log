@@ -1,0 +1,13 @@
+﻿D:\Microsoft VS\VScode\Game_Project\Game_Project\main.cpp(31,40): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\Microsoft VS\VScode\Game_Project\Game_Project\main.cpp(109,20): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Microsoft VS\VScode\Game_Project\Game_Project\main.cpp(108,20): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Microsoft VS\VC\Tools\MSVC\14.51.36231\include\xutility(636,85): warning C4244: “参数”: 从“_Ty”转换到“float”，可能丢失数据
+D:\Microsoft VS\VC\Tools\MSVC\14.51.36231\include\xutility(636,85): warning C4244:         with
+D:\Microsoft VS\VC\Tools\MSVC\14.51.36231\include\xutility(636,85): warning C4244:         [
+D:\Microsoft VS\VC\Tools\MSVC\14.51.36231\include\xutility(636,85): warning C4244:             _Ty=int
+D:\Microsoft VS\VC\Tools\MSVC\14.51.36231\include\xutility(636,85): warning C4244:         ]
+D:\Microsoft VS\VC\Tools\MSVC\14.51.36231\include\xutility(647,94): warning C4244: “参数”: 从“_Ty”转换到“float”，可能丢失数据
+D:\Microsoft VS\VC\Tools\MSVC\14.51.36231\include\xutility(647,94): warning C4244:         with
+D:\Microsoft VS\VC\Tools\MSVC\14.51.36231\include\xutility(647,94): warning C4244:         [
+D:\Microsoft VS\VC\Tools\MSVC\14.51.36231\include\xutility(647,94): warning C4244:             _Ty=int
+D:\Microsoft VS\VC\Tools\MSVC\14.51.36231\include\xutility(647,94): warning C4244:         ]
