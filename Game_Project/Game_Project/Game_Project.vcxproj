@@ -145,6 +145,8 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Character.cpp" />
+    <ClCompile Include="CharacterSkill.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Scenes.cpp" />
     <ClCompile Include="Scene.cpp" />
@@ -158,6 +160,8 @@
     <ClCompile Include="PlaceholderLevelScene.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Character.h" />
+    <ClInclude Include="CharacterSkill.h" />
     <ClInclude Include="SceneName.h" />
     <ClInclude Include="Scene.h" />
     <ClInclude Include="SceneManager.h" />
